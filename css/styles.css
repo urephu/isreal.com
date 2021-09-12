@@ -1,0 +1,553 @@
+/* section1 and carousel */
+
+#section1 {
+  color: white;
+  background-image: url(https://www.abra.com/wp-content/uploads/2019/05/dark-blue-bg.svg);
+  background-size: cover;
+
+}
+
+/* navbar*/
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+.dropdown-style{
+  background-color: #F6D167;
+}
+
+.dropdown-text{
+  color: black;
+}
+
+.dropdown-text:hover{
+  color: red;
+}
+
+
+/* carousel */
+
+.carousel-item{
+  padding: 3% 10%;
+}
+
+@media (max-width: 900px) {
+  .carousel-item{
+    padding: 0 3%;
+
+}
+
+}
+
+
+.section00{
+  text-align: center;
+  padding: 100px;
+}
+
+.section1-0 {
+  color: #FFF7AE;
+}
+
+.section1-01 {
+  margin-bottom: 20px;
+  margin-top: 70px;
+  font-weight: 8;
+  font-size: 4.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
+
+@media (max-width: 900px) {
+  .section1-01{
+font-size: 2.5rem;
+line-height: 1.0;
+
+
+  }
+
+}
+
+@media (max-width: 900px) {
+.section1-4{
+  font-size: 1.5rem;
+  line-height: 1.0
+}
+}
+
+@media (max-width: 900px) {
+  .section00 .section1-0{
+    font-size: 1.5rem;
+    line-height: 1.0;
+    font-family: sans-serif;
+    font-weight: normal;
+
+
+  }
+
+}
+
+
+.section1-1 {
+  font-family: "Montserrat-black";
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #F6D167;
+  font-weight: bold;
+  margin-bottom: 180px;
+}
+
+
+.secods{
+  padding: 100px;
+  text-align: center;
+}
+
+.section1-4{
+  color: #F6D167;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.imageic{
+  width: 60%;
+  padding: 30px 30px 30px 0;
+  text-align: center;
+}
+
+.section1-5{
+  font-family: sans-serif;
+  font-weight: normal;
+  color: #F6D167;
+  font-size: 1.5rem;
+}
+
+
+
+.container-fluid {
+  color: white;
+  padding: 3% 15%;
+}
+
+.navme{
+font-family: proxima-nova,sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #666;
+    line-height: 1.43em;
+}
+
+
+
+/* section2  */
+
+#section2{
+  padding: 5% 10%;
+  background-color: #082032;
+  background-image: url(https://miro.medium.com/max/2000/1*R0jvlCUMHsHb-8zma-cE2Q.gif);
+  background-size: cover;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+
+.section2-1 {
+  text-align: center;
+  padding: 6%;
+  color: white;
+  line-height: 1.5;
+  font-family:
+}
+
+
+.iconic{
+  margin: 10px 0px 20px;
+  color:#F6D167;
+}
+
+
+.sectw{
+  color: #FFF47D;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.sectv{
+  color: 93B5C6;
+  font-weight: bold;
+}
+
+
+
+/* section4 */
+
+#section4 {
+  background-size: cover;
+}
+
+
+.attestaion {
+  text-align:left;
+  padding: 3% 80px;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+
+.veed{
+    padding-top: 75px;
+    background-image: url(https://www.abra.com/wp-content/uploads/2019/05/dark-blue-bg.svg);
+    background-size: cover;
+  }
+
+  .row122{
+    font-family: proxima-nova,sans-serif;
+        font-weight: 800;
+        line-height: 1.3;
+        font-size: 40px;
+        color: black;
+  }
+
+  .stred{
+    font-family: proxima-nova,sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+  }
+
+
+  .headered {
+    margin-bottom: 30px;
+    color: white;
+  }
+
+  .headereder {
+    color: grey;
+  }
+
+
+  .reed{
+    padding-left:95px;
+    margin-left: 150px;
+  }
+
+  @media (max-width: 900px) {
+   .reed{
+     padding-left: 20px;
+     margin: 0px;
+   }
+  }
+
+/* section4 */
+
+  .costor{
+    margin-left:40px;
+    padding: 30px;
+  }
+
+
+  .costored{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 2.0rem;
+  padding: 40px 0 40px 0;
+  }
+
+
+  .row123{
+    padding: 30px;
+  }
+
+  .stre{
+    font-family: proxima-nova,sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+
+  }
+
+
+  @media (max-width: 900px) {
+  .stre{
+    text-align: center;
+
+  }
+  }
+
+
+
+  @media (max-width: 900px)  {
+    .matica{
+      text-align: center;
+    }
+  }
+
+
+
+
+  .matre{
+    width:40%;
+    margin-left:180px;
+    background-color:#3B185F;
+  }
+
+  @media (max-width: 900px) {
+    .matre{}
+  }
+
+
+
+  .matic{
+    width: 100%;
+    padding: 15px;
+    margin-top: 60px;
+  }
+
+
+/* sectio5 */
+
+#section5{
+  padding: 3% 7%;
+  background-color: #082032;
+  text-align: center;
+  background-image: url(https://www.abra.com/wp-content/uploads/2019/05/dark-blue-bg.svg);
+  background-size: cover;
+}
+
+.bit {
+  margin-top: 50px;
+
+}
+
+.ertat{
+  text-align: right;
+}
+.botton-styles {}
+
+.botcom {
+  margin-right: 30px;
+}
+
+
+
+
+
+/* section-5 */
+
+.clar{
+  padding: 12px;
+height: 50px;
+border: 1px solid #d9d9d9;
+background: #fff;
+margin-top: 0;
+}
+
+
+.clear{
+  color: white;
+  margin-top: 30px;
+}
+
+.blo{
+  width: auto;
+  background-color: grey;
+  color: white;
+  font-family: proxima-nova,sans-serif;
+  height: 50px;
+  box-shadow: none;
+    text-shadow: none;
+    text-transform: uppercase;
+    color: #fff;
+    border: 0;
+    padding-left: 30px;
+    padding-right: 30px;}
+
+/* section-6 */
+
+#footer{
+  background-image: url(https://www.abra.com/wp-content/uploads/2019/05/dark-blue-bg.svg);
+background-size: cover;
+}
+
+.footer-div{
+  padding: 3% 7%;
+  color: white;
+  text-align: center;
+}
+
+
+.social-icon{
+  padding: 0 3% 2%;
+}
+
+
+/* investment plan section */
+
+.card{
+  background-image: url(https://www.abra.com/wp-content/uploads/2019/05/dark-blue-bg.svg);
+color: white;
+}
+
+.class-header{
+  margin: 9% 0 4%;
+  color:#F6D167;
+}
+
+
+
+
+
+
+
+
+.photo {
+  width: 5%;
+  height: 30%;
+}
+
+
+
+.formatted {
+  padding: 3% 30% 60% 30%;
+  background-color: blue;
+}
+
+/* sign-in page */
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 25px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  background-color: #012443;
+  color: white;
+}
+
+.form-body {
+  background-image:  url(https://www.abra.com/wp-content/uploads/2019/05/blue-bg.svg);
+  background-size: cover;
+}
+
+.form-reset {
+  margin: 40px 0px 10px;
+}
+
+/* registration */
+* {
+  box-sizing: border-box
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 15px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+}
+
+/* Add padding to container elements */
+.container {
+  padding: 200px;
+  padding-left: 200px;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+}
+
+/* registration page */
+
+.right-content{
+  width: 50px;
+  padding:
+}
+
+#registrationsec{
+  padding: 100px;
+  width: 60%;
+
+}
+
+
+
+
+/* news letter section */
+
+#newslettered{
+  background-image: url(https://www.abra.com/wp-content/uploads/2019/05/blue-bg.svg);
+  background-size: cover;
+}
+
+.newsletter{
+  text-align: center;
+  padding: 100px 25px 100px;
+
+}
+
+.newsget{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-family: proxima-nova,sans-serif;
+font-weight: 700;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+
+}
+}
+.blo:hover{
+  background-color: red;
+  color: white;
+}
